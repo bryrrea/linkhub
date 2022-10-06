@@ -232,7 +232,7 @@ ul.footer-icons li svg:hover {
 }
 
 body  {
-    animation: button_animation 1s forwards 1s ease;
+    animation: button_animation 1s backwards 1s ease;
 }
 
 a.button:hover {
