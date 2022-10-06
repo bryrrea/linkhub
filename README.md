@@ -1,6 +1,6 @@
 **Clique [aqui](./src/txt/readme_ptbr.md) para ler este arquivo em PT-BR.**  
 
->**See the previous version of this project [here](https://github.com/bryrrea/linkhub_v2)** 
+>**See the previous version of this project [here](https://github.com/bryrrea/my_linkhub)** 
 
 ![visitors](https://visitor-badge-bryrrea.vercel.app/p/linkhub?color=blue)
 
