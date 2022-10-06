@@ -2,7 +2,7 @@
 
 >**See the previous version of this project [here](https://github.com/bryrrea/linkhub_v2)** 
 
-![visitors](https://visitor-badge-bryrrea.vercel.app/p/my_linkhub?color=blue)
+![visitors](https://visitor-badge-bryrrea.vercel.app/p/linkhub?color=blue)
 
 # **LinkHub Project**  
 
