@@ -247,7 +247,8 @@ ul.tips-icons svg {
 /*Animation*/
 
 ul.header-icons li svg:hover,
-ul.footer-icons li svg:hover {
+ul.footer-icons li svg:hover,
+ul.tips-icons li svg:hover {
     transform: scale(1.5);
 }
 
