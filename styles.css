@@ -140,6 +140,10 @@ a.button p {
 footer {
     margin-top: 170px;
     margin-bottom: 30px;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 
 h3 {
@@ -153,19 +157,35 @@ h3 {
 }
 
 
-ul.footer-icons {
+ul.footer-icons,
+ul.tips-icons {
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 25px;
 }
 
-ul.footer-icons svg {
+ul.footer-icons svg,
+ul.tips-icons svg {
     width: 32px;
     fill: #FFB445;
 }
 
+ul.tips-icons svg {
+    height: 36px;
+    margin-top: 0;
+}
+
 /*Media Queries*/
+
+@media(max-width: 950px) {
+    footer {
+        display: block;
+    }
+    footer div.dotcodevlab {
+        margin-top: 15px;
+    }
+}
 
 @media(max-width: 550px) {
     h1 {
